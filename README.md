@@ -49,7 +49,7 @@ Pandas
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/traffic-sign-detection.git
+git clone https://github.com/Ruchin0203/traffic-sign-detection.git
 cd traffic-sign-detection
 
 2️⃣ Install Required Libraries
@@ -114,6 +114,7 @@ Road Safety Systems
 👨‍💻 Author
 
 Ruchin Patel 
+
 Computer Vision | Deep Learning | AI Enthusiast
 
 📜 License
